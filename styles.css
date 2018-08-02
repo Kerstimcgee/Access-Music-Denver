@@ -1,0 +1,61 @@
+/* this is really scrambled, I will get better at the order one day. */
+
+h1 {
+    font-family: 'Bungee Inline', cursive;
+    color: #000000;
+    text-align: center;
+    font-size: 3rem;
+    padding-top: 30px;
+  }
+  
+  img {
+    width: 100%;
+  }
+  
+  h2 {
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+  }
+  
+  h6 {
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    padding-bottom: 15px;
+  }
+  
+  .totallygreen {
+    font-family: 'Lato', sans-serif;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    background: #69ea7f;
+    background-size: 100%;
+    color: black;
+  }
+  
+  li {
+    padding-bottom: 15px;
+    padding-top: 15px;
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    list-style-type: none;
+  }
+  
+  footer {
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    background-color: black;
+    color: white;
+  }
+  
+  .wrapper {
+    width: 400px;
+    margin: auto;
+  }
+  
+  ul {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  
